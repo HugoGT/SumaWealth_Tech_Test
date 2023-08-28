@@ -38,6 +38,10 @@ In this exhaustive analysis, we will delve deep into user behavior in our email 
 - **marketing_budget**: The budget allocated for marketing in the respective month.
 - **sales**: The total sales revenue generated in the respective month.
 
+## Dashboard
+
+- [SMEs dashboard](./SMEs_dashboard.pbix)
+
 ## Sources:
 
 1. [Email Marketing Data](https://www.kaggle.com/datasets/loveall/email-campaign-management-for-sme)
